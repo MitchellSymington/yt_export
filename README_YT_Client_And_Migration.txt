@@ -93,8 +93,8 @@ The script will:
 
 1. Show a green authorization link in the terminal
 2. You copy or click the link, log in with:
-   - Email: ytclientproj@gmail.com
-   - Password: ytclientproj123
+   - Email: xxxxxxx@gmail.com
+   - Password: xxxxxxxx
 3. Authorize the app
 4. Paste the returned code into the terminal
 
